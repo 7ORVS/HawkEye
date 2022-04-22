@@ -43,6 +43,7 @@ to get this information we can search about manufacturer of this mac address on 
 ![man](/images/man.png)
 
 answer: Hewlett-Packard
+___
 **Q6**. Where is the headquarter of the company that manufactured the NIC of the most active computer at the link level?
 
 also we can search about this information in google 
