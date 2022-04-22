@@ -149,7 +149,7 @@ ___
 
 so if we search about **SMTP REQ** we will find that victim communicate with this mail
 ![smtpReq](/images/smtpReq.png)
-so if we extract the domain name from this mail which is macwinlogistics.in and search about it on this website https://whois.domaintools.com/
+so if we extract the domain name from this mail which is **macwinlogistics.in** and search about it on this website https://whois.domaintools.com/
 we will find the creation date
 ![creationDate](/images/createdDate.png)
 ___
