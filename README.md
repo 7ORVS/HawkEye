@@ -133,7 +133,7 @@ ___
 **Q18**. What is the public IP of the victim's computer?
 
 if we search in **GET** requests made by victim we will find that there is a packet request
-whatismyipaddress.com so we can know the public ip of victim from the response to this packet
+**whatismyipaddress.com** so we can know the public ip of victim from the response to this packet
 
 ![Public ip](/images/publicIp.png)
 ___
